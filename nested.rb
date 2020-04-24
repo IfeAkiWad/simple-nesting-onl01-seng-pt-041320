@@ -37,7 +37,7 @@ def alan_kay_is_known_for
           :languages => ["C"]
         }
      }
-		programmer_hash[:alan_kay] = "object Orientation"
+		programmer_hash[:alan_kay_is_known_for] = "object Orientation"
 end
 
 def dennis_ritchies_language
